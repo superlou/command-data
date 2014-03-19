@@ -1,0 +1,21 @@
+GIT
+  remote: git@github.com:tyrauber/census_api.git
+  revision: 42a9ac3033ec483b3776922efbc56c11d462995a
+  specs:
+    census_api (1.0.3)
+      hpricot
+      rest-client
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    hpricot (0.8.6)
+    mime-types (2.2)
+    rest-client (1.6.7)
+      mime-types (>= 1.16)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  census_api!
